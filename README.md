@@ -11,7 +11,7 @@ Como Usar
 Clone o repositório para o seu ambiente de desenvolvimento local.
 bash
 Copiar código
-git clone https://github.com/seu-usuario/Fokus-temporizador.git
+git clone https://github.com/heedbeatss/Fokus-temporizador.git
 Abra o arquivo index.html em um navegador da web.
 Selecione o modo de trabalho desejado (Foco, Descanso Curto, Descanso Longo) clicando nos botões correspondentes.
 Clique no botão "Começar" para iniciar o temporizador. Você pode pausar o temporizador a qualquer momento clicando novamente no botão.
